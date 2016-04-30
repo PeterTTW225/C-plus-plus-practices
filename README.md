@@ -7,3 +7,9 @@ Some practices of C++ programing.
 
 21點：
 ：
+：
+：
+：
+：
+：
+：
