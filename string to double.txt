@@ -1,0 +1,8 @@
+
+void main()
+{
+	string a = "123";
+	float X = atof(a.c_str());
+	cout << X;
+	system("pause");
+}

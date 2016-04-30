@@ -1,0 +1,12 @@
+void main()
+{
+	int num,out,p;
+	cout<<"½Ğ¿é¤J¼Æ¦r~~" << endl;
+	cin >> p;
+	num = p;
+	for (int i=num; i != 0;i=i/10 )
+	{
+		cout << i % 10;
+	}
+	system("pause");
+}
